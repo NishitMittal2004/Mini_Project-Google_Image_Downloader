@@ -1,1 +1,1 @@
-# Mini_Project-Google_Image_Downloader
+# Mini Project - Google Image Downloader
